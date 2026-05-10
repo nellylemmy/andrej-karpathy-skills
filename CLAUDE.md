@@ -23,6 +23,12 @@ Before implementing:
 - No "flexibility" or "configurability" that wasn't requested.
 - No error handling for impossible scenarios.
 - If you write 200 lines and it could be 50, rewrite it.
+- Don't show off your skills
+- Don't solve non -existing problems
+- Don't repeat yourself
+- Make it easy to understand and maintain
+- Test what you build
+- Don’t over engineer
 
 Ask yourself: "Would a senior engineer say this is overcomplicated?" If yes, simplify.
 
